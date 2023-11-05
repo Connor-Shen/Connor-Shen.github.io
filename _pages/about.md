@@ -18,8 +18,11 @@ latest_posts: true  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-change something Hi my name is connor
-really change something
+
+Hello and welcome to my personal webpage! My name is Connor Shen, and I hail from the vibrant city of Shanghai, China. Currently, I'm a senior student at Fudan University, where I am pursuing dual degrees in Physics and Data Science.
+My research fervor lies in prompt engineering, fine-tuning and application of large language models in different domians. I'm also exploring the realization of general artificial intelligence agents.
+Currently, I serve as an Algorithm Intern at the OpenMMLab team in the Shanghai Artificial Intelligence Laboratory, where my research is centered on fine-tuning and evaluation of large language models.
+
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
