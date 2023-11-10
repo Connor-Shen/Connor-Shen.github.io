@@ -1,11 +1,12 @@
 ---
-layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
+layout: post
+title: novel-image-captioning
+description: A pytorch repetition of Novel Object Captioner (NOC)
+img: assets/img/samples_suitcase.png
 importance: 2
 category: work
 giscus_comments: true
+redirect: assets/pdf/pj3 (1).pdf
 ---
 
 Every project has a beautiful feature showcase page.
