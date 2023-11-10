@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pruning-Transformer-via-Sparsity 
+title: Pruning-ViT
 description: Doing Neural network pruning on ViTs
 img: assets/img/heatmap_sparse.png
 importance: 1
