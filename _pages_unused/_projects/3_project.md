@@ -1,12 +1,11 @@
 ---
-layout: post
-title: Pruning-Transformer-via-Sparsity 
-description: Doing Neural network pruning on ViTs
-img: assets/img/heatmap_sparse.png
-importance: 1
+layout: page
+title: project 3
+description: a project that redirects to another website
+img: assets/img/7.jpg
+redirect: https://unsplash.com
+importance: 3
 category: work
-related_publications: einstein1956investigations, einstein1950meaning
-redirect: /assets/pdf/vit_pruning.pdf
 ---
 
 Every project has a beautiful feature showcase page.

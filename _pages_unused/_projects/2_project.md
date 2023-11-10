@@ -1,12 +1,11 @@
 ---
-layout: post
-title: Pruning-Transformer-via-Sparsity 
-description: Doing Neural network pruning on ViTs
-img: assets/img/heatmap_sparse.png
-importance: 1
+layout: page
+title: project 2
+description: a project with a background image and giscus comments
+img: assets/img/3.jpg
+importance: 2
 category: work
-related_publications: einstein1956investigations, einstein1950meaning
-redirect: /assets/pdf/vit_pruning.pdf
+giscus_comments: true
 ---
 
 Every project has a beautiful feature showcase page.
