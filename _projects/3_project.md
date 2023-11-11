@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 3
+title: CIFAR10-and-BN
 description: a project that redirects to another website
 img: assets/img/7.jpg
-redirect: https://unsplash.com
+redirect: /assets/pdf/pj2.pdf
 importance: 3
 category: work
 ---

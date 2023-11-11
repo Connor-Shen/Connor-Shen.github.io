@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: novel-image-captioning
 description: A pytorch repetition of Novel Object Captioner (NOC)
 img: assets/img/pj2.png
