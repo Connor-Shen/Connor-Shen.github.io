@@ -3,7 +3,7 @@ layout: page
 title: Covid-Rumor-Visualization
 description: A rumor visualization system for visualizing rumors in social networks during the Covid-19
 img: /assets/img/pj4.png
-redirect: assets/pdf/covid_data_visualization.pdf
+redirect: /assets/pdf/covid_data_visualization.pdf
 importance: 3
 category: NLP
 ---
