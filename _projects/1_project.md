@@ -4,7 +4,7 @@ title: Pruning-ViT
 description: Doing Neural network pruning on ViTs
 img: /assets/img/pj1.png
 importance: 1
-category: work
+category: CV
 related_publications: einstein1956investigations, einstein1950meaning
 redirect: /assets/pdf/vit_pruning.pdf
 ---

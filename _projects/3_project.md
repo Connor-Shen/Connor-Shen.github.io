@@ -1,11 +1,11 @@
 ---
 layout: page
-title: CIFAR10-and-BN
+title: Batch-Normalization
 description: a project that redirects to another website
-img: assets/img/7.jpg
+img: /assets/img/pj3.png
 redirect: /assets/pdf/pj2.pdf
 importance: 3
-category: work
+category: CV
 ---
 
 Every project has a beautiful feature showcase page.

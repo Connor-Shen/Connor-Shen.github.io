@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
-img: assets/img/1.jpg
+title: Imbalanced-Churn-Prediction
+description: Build various models to predict the potential churning customers and solve sample imbalance
+img: /assets/img/pj5.jpg
+redirect: /assets/pdf/QWE.pdf
 importance: 3
-category: fun
+category: NLP
 ---
 
 Every project has a beautiful feature showcase page.

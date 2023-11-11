@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
+title: Covid-Rumor-Visualization
+description: A rumor visualization system for visualizing rumors in social networks during the Covid-19
+img: /assets/img/pj4.png
+redirect: assets/pdf/covid_data_visualization.pdf
 importance: 3
-category: fun
+category: NLP
 ---
 
 Every project has a beautiful feature showcase page.

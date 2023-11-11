@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
-img:
+title: BP-Neural-Network-Exploration
+description: Using python(start from scratch) to build a bp neural network
+img: /assets/img/pj6.jpg
+redirect: /assets/pdf/pj1.pdf
 importance: 4
-category: fun
+category: NLP
 ---
 
 Every project has a beautiful feature showcase page.
