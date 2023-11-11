@@ -2,7 +2,7 @@
 layout: page
 title: Imbalanced-Churn-Prediction
 description: Build various models to predict the potential churning customers and solve sample imbalance
-img: /assets/img/pj5.jpg
+img: /assets/img/pj3.jpg
 redirect: /assets/pdf/QWE.pdf
 importance: 3
 category: NLP
