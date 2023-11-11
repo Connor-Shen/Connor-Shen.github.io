@@ -23,3 +23,27 @@ Hello and Welcome to my personal webpage! My name is Connor Shen, and I hail fro
 My research fervor lies in Prompt Engineering, Fine-tuning and Application of Large Language Models in Different Domians. I'm also exploring the realization of General Artificial Intelligence Agents.
 
 Currently, I serve as an Algorithm Intern at the OpenMMLab team in the Shanghai Artificial Intelligence Laboratory, where my research is centered on Fine-tuning and Evaluation of large language models.
+
+# Welcome to My Personal Webpage
+
+## Introduction
+Hello! My name is Connor Shen from Shanghai, China. I'm a senior student at Fudan University, majoring in Physics and Data Science.
+
+### Education and Career
+#### Fudan University
+* Senior Student
+* Major: Physics and Data Science
+
+#### OpenMMLab Team - Shanghai Artificial Intelligence Laboratory
+* Role: Algorithm Intern
+* Focus: Fine-tuning and Evaluation of Large Language Models
+
+## My Research Interests
+* Prompt Engineering
+* Fine-tuning of Large Language Models
+* Application in Various Domains
+* Exploring General AI Agents
+
+## Current Projects
+* Research at Shanghai Artificial Intelligence Laboratory
+* Focus: General AI Agents and Large Language Model Applications
