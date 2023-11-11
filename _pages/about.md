@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <h3>School: No. 220 Handan Road, Yangpu District, Shanghai</h3>
+    <h6>School: No. 220 Handan Road, Yangpu District, Shanghai</h6>
     <h6>Intern: L1 Building, 8F, Longteng Avenue, Xuhui District, Shanghai</h6>
 
 news: true  # includes a list of news items
