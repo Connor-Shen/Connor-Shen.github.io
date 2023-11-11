@@ -2,7 +2,7 @@
 layout: post
 title: Pruning-ViT
 description: Doing Neural network pruning on ViTs
-img: assets/img/heatmap_sparse.png
+img: assets/img/pj1.png
 importance: 1
 category: work
 related_publications: einstein1956investigations, einstein1950meaning

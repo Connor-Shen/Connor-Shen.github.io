@@ -2,11 +2,11 @@
 layout: post
 title: novel-image-captioning
 description: A pytorch repetition of Novel Object Captioner (NOC)
-img: assets/img/samples_suitcase.png
+img: assets/img/pj2.png
 importance: 2
 category: work
 giscus_comments: true
-redirect: assets/pdf/pj3 (1).pdf
+redirect: /assets/pdf/pj3.pdf
 ---
 
 Every project has a beautiful feature showcase page.
