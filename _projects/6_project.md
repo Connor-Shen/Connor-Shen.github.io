@@ -1,7 +1,7 @@
 ---
 layout: page
 title: BP-Neural-Network-Exploration
-description: Using python(start from scratch) to build a bp neural network
+description: Using python to build a bp neural network from scratch
 img: /assets/img/pj6.jpg
 redirect: /assets/pdf/pj1.pdf
 importance: 4
