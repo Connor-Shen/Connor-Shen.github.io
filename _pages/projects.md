@@ -2,8 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: All the code of my projects is available on my [GitHub profile](https://github.com/Connor-Shen).
-Feel free to contact me with any questions or suggestions!
+description: All the code of my projects is available on my [GitHub profile](https://github.com/Connor-Shen). Feel free to contact me with any questions or suggestions!
 nav: true
 nav_order: 3
 display_categories: [CV, NLP]
