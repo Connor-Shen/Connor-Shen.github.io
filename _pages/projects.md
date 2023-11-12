@@ -4,7 +4,7 @@ title: projects
 permalink: /projects/
 description: All the code of my projects is available on my [GitHub profile](https://github.com/Connor-Shen).
 Feel free to contact me with any questions or suggestions!
-nav: true
+nav: false
 nav_order: 3
 display_categories: [CV, NLP]
 horizontal: false
