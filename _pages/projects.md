@@ -1,6 +1,6 @@
 ---
 layout: page
-title: projects
+title: Projects
 permalink: /projects/
 description: All the code of my projects is available on my GitHub profile. Feel free to contact me with any questions or suggestions!
 nav: true
