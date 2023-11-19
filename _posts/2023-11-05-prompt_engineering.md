@@ -6,3 +6,5 @@ description: Towards nlp task development and prompt engineering
 tags: Learning_Research
 redirect: /assets/pdf/Prompt Engineering Learning Sharing.pdf
 ---
+
+Redirecting to another page.
