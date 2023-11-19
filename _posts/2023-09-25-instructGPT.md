@@ -1,14 +1,13 @@
 ---
 layout: post
-title: a post with table of contents on a sidebar
-date: 2023-04-25 10:14:00-0400
-description: an example of a blog post with table of contents on a sidebar
-tags: formatting toc sidebar
+title: paper review of instructGPT
+date: 2023-09-25 10:14:00-0400
+description: "Aligning language models to follow instructions"
+tags: Paper_Reviews
 categories: sample-posts
 giscus_comments: true
 related_posts: false
-toc:
-  sidebar: left
+redirect: /assets/pdf/InstructGPT With Smart Labelers.pdf
 ---
 This post shows how to add a table of contents as a sidebar.
 

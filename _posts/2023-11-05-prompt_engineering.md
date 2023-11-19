@@ -1,0 +1,8 @@
+---
+layout: post
+title: Prompt Engineering Learning Research
+date: 2023-11-05 17:39:00
+description: Towards nlp task development and prompt engineering
+tags: Learning_Research
+redirect: /assets/pdf/Prompt Engineering Learning Sharing.pdf
+---
