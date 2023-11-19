@@ -1,6 +1,6 @@
 ---
 layout: post
-title: paper review of instructGPT
+title: paper review of "instructGPT"
 date: 2023-09-25 10:14:00-0400
 description: "Aligning language models to follow instructions"
 tags: Paper_Reviews
