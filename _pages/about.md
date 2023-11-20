@@ -17,7 +17,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hello and Welcome to my personal webpage! My name is Connor Shen, and I hail from the vibrant city of Shanghai, China. Currently, I'm a senior student at Fudan University, where I am studying Physics and Data Science. hhh
+Hello and Welcome to my personal webpage! My name is Connor Shen, and I hail from the vibrant city of Shanghai, China. Currently, I'm a senior student at Fudan University, where I am studying Physics and Data Science.
 
 As a **die-hard tech optimist**, I am deeply convinced of the revolutionary potential of large language models (LLMs). My enthusiasm leads me to experiment with their applications in various fields, exploring their diverse roles. 
 
