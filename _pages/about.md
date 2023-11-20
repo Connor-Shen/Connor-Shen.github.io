@@ -28,11 +28,11 @@ In my free time, I enjoy swimming alone, playing football with my friends, and l
 They say variety is the spice of life, and I'm all for it! I warmly welcome friends from all around the world with different backgrounds to connect and collaborate with me. I'm always open to new ideas and perspectives, so feel free to reach out to me!
 
 ## Education and Career
-#### <img src="{{ '/assets/img/fudan.png' | relative_url }}" width="30" style="margin-bottom: -15px;"> Fudan University  
+#### <img src="{{ '/assets/img/fudan.png' | relative_url }}" width="50" style="margin-bottom: -15px;"> Fudan University  
 * Senior Student
 * No. 220 Handan Road, Yangpu District, Shanghai
 
-#### Shanghai Artificial Intelligence Laboratory
+#### <img src="{{ '/assets/img/ailab.png' | relative_url }}" width="50" style="margin-bottom: -15px;"> Shanghai Artificial Intelligence Laboratory
 * Algorithm Intern at OpenMMLab Team
 * L1 Building, 8F, Longteng Avenue, Xuhui District, Shanghai
 
