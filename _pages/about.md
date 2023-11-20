@@ -32,7 +32,7 @@ They say variety is the spice of life, and I'm all for it! I warmly welcome frie
 * Senior Student
 * No. 220 Handan Road, Yangpu District, Shanghai
 
-#### <img src="{{ '/assets/img/ailab.png' | relative_url }}" width="100" style="margin-bottom: -15px;"> Shanghai Artificial Intelligence Laboratory
+#### <img src="{{ '/assets/img/ailab.png' | relative_url }}" width="100" style="vertical-align: middle;"> Shanghai Artificial Intelligence Laboratory
 * Algorithm Intern at OpenMMLab Team
 * L1 Building, 8F, Longteng Avenue, Xuhui District, Shanghai
 
