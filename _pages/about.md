@@ -42,21 +42,21 @@ They say variety is the spice of life, and I'm all for it! I warmly welcome frie
 * Exploring General AI Agents & Human-AI collaboration
 
 ## Ongoing Projects
-“Wangdao” Undergraduate Academic Aid Program
+### “Wangdao” Undergraduate Academic Aid Program
 * Proposing [KePrompt](https://github.com/Connor-Shen/Knowledge-enhanced-Prompting), a Knowledge-enhanced Prompt Engineering approach, which helps analyze users’ tweets over a period of up to ten years, and assess whether the user's mental state indicates depression.
 * Utilizing LLMs as both optimizer and scorer to optimize prompts, while also incorporating human experts as assist scorer. Through iterative rounds, this approach generates the most effective prompt for analyzing depression.
 * Employing optimized prompt templates to explore knowledge embedded within LLMs (intrinsic knowledge), and concurrently incorporating expert-provided domain knowledge (extrinsic knowledge) to construct a valuable domain knowledge framework.
 
-Lagent & ToolBench
-* **Lagent** is a lightweight open-source framework that allows users to efficiently build large language model(LLM)-based agents. It also provides some typical tools to augment LLM. 
+### Lagent & ToolBench
+* [Lagent](https://github.com/InternLM/lagent) is a lightweight open-source framework that allows users to efficiently build large language model(LLM)-based agents. It also provides some typical tools to augment LLM. 
 * Collaboration on the construction of ‘ToolBench’ under the idea of ‘ReAct’, equipping LLMs with a variety of tool APIs to accomplish diverse daily tasks such as composing and sending emails, scheduling activities, and booking hotels.
 * Assisting in SFT of our foundational model 'InternLM'.
 
-OpenCompass Evaluation Platform
-* Collaboration on the development of **OpenCompass**, an open-source, efficient, and comprehensive evaluation suite and platform designed for large models.
+### OpenCompass Evaluation Platform
+* Collaboration on the development of [OpenCompass](https://opencompass.org.cn/), an open-source, efficient, and comprehensive evaluation suite and platform designed for large models.
 * Evaluation of LLM's Data Science Capability based on Python libraries.
 
-PhyBench & PhyTuning 
+### PhyBench & PhyTuning 
 * **PhyBench** is a dataset built around physics experiment problems, featuring high-quality interactions aimed at improving LLMs' understanding and handling of physics experiment questions.
 * **PhyTuning** marks the initial endeavor to instruction-tune LLMs using interaction trajectories from physics experiments, enriched with professional insights and assessments from experiment instructors.
 
