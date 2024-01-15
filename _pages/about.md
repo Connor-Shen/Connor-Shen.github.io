@@ -39,7 +39,8 @@ They say variety is the spice of life, and I'm all for it! I warmly welcome frie
 ## My Research Interests
 * In-context learning & Prompt Engineering
 * LLMs Fine-tuning & Application in Various Domains
-* Exploring General AI Agents & Human-AI collaboration
+* LLMs Evaluation & Benchmarking
+* Human-AI collaboration
 
 ## Ongoing Projects
 #### “Wangdao” Undergraduate Academic Aid Program
@@ -54,7 +55,9 @@ They say variety is the spice of life, and I'm all for it! I warmly welcome frie
 
 #### OpenCompass Evaluation Platform
 * Collaboration on the development of [OpenCompass](https://opencompass.org.cn/), an open-source, efficient, and comprehensive evaluation suite and platform designed for large models.
-* Evaluation of LLM's Data Science Capability based on Python libraries.
+* Engaged in the construction of 'CIBench', a dataset focused on evaluating the Code Interpreter capabilities of LLMs.
+* Participate in the support and development of evaluation datasets for code and agent dimensions within OpenCompass
+
 
 #### PhyBench & PhyTuning 
 * **PhyBench** is a dataset built around physics experiment problems, featuring high-quality interactions aimed at improving LLMs' understanding and handling of physics experiment questions.

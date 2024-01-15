@@ -4,7 +4,6 @@ title: paper review of "instructGPT"
 date: 2023-09-25 10:14:00-0400
 description: "Aligning language models to follow instructions"
 tags: Paper_Reviews
-categories: sample-posts
 giscus_comments: true
 related_posts: false
 redirect: /assets/pdf/InstructGPT With Smart Labelers.pdf
