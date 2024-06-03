@@ -37,29 +37,26 @@ They say variety is the spice of life, and I'm all for it! I warmly welcome frie
 * L1 Building, 8F, Longteng Avenue, Xuhui District, Shanghai
 
 ## My Research Interests
-* In-context learning & Prompt Engineering
-* LLMs Fine-tuning & Application in Various Domains
+* LLMs' Application in Various Domains
 * LLMs Evaluation & Benchmarking
 * Human-AI collaboration
 
 ## Ongoing Projects
+
+#### OpenCompass Evaluation Platform
+* Collaboration on the development of [OpenCompass](https://opencompass.org.cn/), an open-source, efficient, and comprehensive evaluation suite and platform designed for large models.
+* Mainly responsible for code generation and conducting fine-grained analysis of LLM code capabilities.
+* Engaged in the construction of 'CIBench', a dataset focused on evaluating the Code Interpreter capabilities of LLMs.
+
+
 #### “Wangdao” Undergraduate Academic Aid Program
 * Proposing [KePrompt](https://github.com/Connor-Shen/Knowledge-enhanced-Prompting), a Knowledge-enhanced Prompt Engineering approach, which helps analyze users’ tweets over a period of up to ten years, and assess whether the user's mental state indicates depression.
 * Utilizing LLMs as both optimizer and scorer to optimize prompts, while also incorporating human experts as assist scorer. Through iterative rounds, this approach generates the most effective prompt for analyzing depression.
 * Employing optimized prompt templates to explore knowledge embedded within LLMs (intrinsic knowledge), and concurrently incorporating expert-provided domain knowledge (extrinsic knowledge) to construct a valuable domain knowledge framework.
 
-#### Lagent & ToolBench
-* [Lagent](https://github.com/InternLM/lagent) is a lightweight open-source framework that allows users to efficiently build large language model(LLM)-based agents. It also provides some typical tools to augment LLM. 
-* Collaboration on the construction of ‘ToolBench’ under the idea of ‘ReAct’, equipping LLMs with a variety of tool APIs to accomplish diverse daily tasks such as composing and sending emails, scheduling activities, and booking hotels.
-* Assisting in SFT of our foundational model 'InternLM'.
 
-#### OpenCompass Evaluation Platform
-* Collaboration on the development of [OpenCompass](https://opencompass.org.cn/), an open-source, efficient, and comprehensive evaluation suite and platform designed for large models.
-* Engaged in the construction of 'CIBench', a dataset focused on evaluating the Code Interpreter capabilities of LLMs.
-* Participate in the support and development of evaluation datasets for code and agent dimensions within OpenCompass
-
-
-#### PhyBench & PhyTuning 
-* **PhyBench** is a dataset built around physics experiment problems, featuring high-quality interactions aimed at improving LLMs' understanding and handling of physics experiment questions.
-* **PhyTuning** marks the initial endeavor to instruction-tune LLMs using interaction trajectories from physics experiments, enriched with professional insights and assessments from experiment instructors.
+#### "LLM + RAG" in the field of College Physics Experiment
+* Constructing a specialized benchamark called "CPEBench" for undergraduate physics experiments.
+* Crawling and building a high-quality knowledge Vector Database in the field of physical experiments based on websites such as Wikipedia.
+* Use RAG to reduce the Hallucinations of LLM and improve interpretability. The Web UI demo has been used in the Physics Experiment Teaching Center of Fudan University.
 
