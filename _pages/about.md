@@ -33,7 +33,7 @@ They say variety is the spice of life, and I'm all for it! I warmly welcome frie
 * Undergraduate Student in Physics and Data Science
 * No. 220 Handan Road, Yangpu District, Shanghai
 
-#### <img src="{{ '/assets/img/WorldQuant.png' | relative_url }}" width="100" style="vertical-align: middle;"> WorldQuant
+#### <img src="{{ '/assets/img/WorldQuant.jpg' | relative_url }}" width="100" style="vertical-align: middle;"> WorldQuant
 2024.10 - Present
 * Data Scientist Intern at Research Analytics & Data Science Team
 * Office Building 3, Jing'an Kerry Centre, 1228 Yan'an Middle Road, Jing'an District, Shanghai
