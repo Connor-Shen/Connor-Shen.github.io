@@ -42,28 +42,3 @@ They say variety is the spice of life, and I'm all for it! I warmly welcome frie
 2023.09 - 2024.03
 * Algorithm Intern at OpenMMLab Team
 * L1 Building, 8F, Longteng Avenue, Xuhui District, Shanghai
-
-<!-- ## My Research Interests
-* LLMs' Application in Various Domains
-* LLMs Evaluation & Benchmarking
-* Human-AI collaboration
-
-## Ongoing Projects
-
-#### OpenCompass Evaluation Platform
-* Collaboration on the development of [OpenCompass](https://opencompass.org.cn/), an open-source, efficient, and comprehensive evaluation suite and platform designed for large models.
-* Mainly responsible for code generation and conducting fine-grained analysis of LLM code capabilities.
-* Engaged in the construction of 'CIBench', a dataset focused on evaluating the Code Interpreter capabilities of LLMs.
-
-
-#### “Wangdao” Undergraduate Academic Aid Program
-* Proposing [KePrompt](https://github.com/Connor-Shen/Knowledge-enhanced-Prompting), a Knowledge-enhanced Prompt Engineering approach, which helps analyze users’ tweets over a period of up to ten years, and assess whether the user's mental state indicates depression.
-* Utilizing LLMs as both optimizer and scorer to optimize prompts, while also incorporating human experts as assist scorer. Through iterative rounds, this approach generates the most effective prompt for analyzing depression.
-* Employing optimized prompt templates to explore knowledge embedded within LLMs (intrinsic knowledge), and concurrently incorporating expert-provided domain knowledge (extrinsic knowledge) to construct a valuable domain knowledge framework.
-
-
-#### "LLM + RAG" in the field of College Physics Experiment
-* Constructing a specialized benchamark called "CPEBench" for undergraduate physics experiments.
-* Crawling and building a high-quality knowledge Vector Database in the field of physical experiments based on websites such as Wikipedia.
-* Use RAG to reduce the Hallucinations of LLM and improve interpretability. The Web UI demo has been used in the Physics Experiment Teaching Center of Fudan University.
- -->
