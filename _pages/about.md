@@ -29,14 +29,21 @@ They say variety is the spice of life, and I'm all for it! I warmly welcome frie
 
 ## Education and Career
 #### <img src="{{ '/assets/img/fudan.png' | relative_url }}" width="100" style="vertical-align: middle;"> Fudan University  
-* Senior Student
+2020.09 - Present
+* Undergraduate Student in Physics and Data Science
 * No. 220 Handan Road, Yangpu District, Shanghai
 
+#### <img src="{{ '/assets/img/WorldQuant.png' | relative_url }}" width="100" style="vertical-align: middle;"> WorldQuant
+2024.10 - Present
+* Data Scientist Intern at Research Analytics & Data Science Team
+* Office Building 3, Jing'an Kerry Centre, 1228 Yan'an Middle Road, Jing'an District, Shanghai
+
 #### <img src="{{ '/assets/img/ailab.png' | relative_url }}" width="100" style="vertical-align: middle;"> Shanghai Artificial Intelligence Laboratory
+2023.09 - 2024.03
 * Algorithm Intern at OpenMMLab Team
 * L1 Building, 8F, Longteng Avenue, Xuhui District, Shanghai
 
-## My Research Interests
+<!-- ## My Research Interests
 * LLMs' Application in Various Domains
 * LLMs Evaluation & Benchmarking
 * Human-AI collaboration
@@ -59,4 +66,4 @@ They say variety is the spice of life, and I'm all for it! I warmly welcome frie
 * Constructing a specialized benchamark called "CPEBench" for undergraduate physics experiments.
 * Crawling and building a high-quality knowledge Vector Database in the field of physical experiments based on websites such as Wikipedia.
 * Use RAG to reduce the Hallucinations of LLM and improve interpretability. The Web UI demo has been used in the Physics Experiment Teaching Center of Fudan University.
-
+ -->
